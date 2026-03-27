@@ -1,1 +1,79 @@
-IyBPbMOhLCBldSBzb3UgbyBKb8OjbyDwn5GLCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVtUeXBpbmcgU1ZHXShodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9RmlyYStDb2RlJnBhdXNlPTEwMDAmY29sb3I9MkU4NkMxJmNlbnRlcj10cnVlJnZDZW50ZXI9dHJ1ZSZ3aWR0aD00MzUmbGluZXM9SGVhbHRoK0RhdGErU2NpZW50aXN0O0VwaWRlbWlvbG9naXN0O01lZGljYWwrUmVzZWFyY2hlcjtQdWJsaWMrSGVhbHRoKyU3QytCcmF6aWwpCgo8L2Rpdj4KCi0tLQoKIyMg8J+puiBTb2JyZSBtaW0KClNvdSBtw6lkaWNvIGUgcGVzcXVpc2Fkb3IgY29tIGZvY28gZW0gKiplcGlkZW1pb2xvZ2lhKiosICoqc2HDumRlIHDDumJsaWNhKiogZSAqKmNpw6puY2lhIGRlIGRhZG9zIGFwbGljYWRhIMOgIHNhw7pkZSoqLiBUcmFiYWxobyBjb20gYW7DoWxpc2UgZGUgZGFkb3MgY2zDrW5pY29zIGUgcG9wdWxhY2lvbmFpcywgY29tIMOqbmZhc2UgZW0gKipNaW5hcyBHZXJhaXMqKiBlIG5vIEJyYXNpbC4KCk1ldSB0cmFiYWxobyBlbnZvbHZlIGRlc2RlIGVzdHVkb3MgZGUgc8OpcmllcyB0ZW1wb3JhaXMgZWNvbMOzZ2ljYXMgYXTDqSBkYXNoYm9hcmRzIGludGVyYXRpdm9zIGUgbGlua2FnZSBkZSBiYXNlcyBkZSBkYWRvcyBkZSBzYcO6ZGUuCgotIPCflK0gQXR1YWxtZW50ZSB0cmFiYWxoYW5kbyBjb20gZGFkb3MgZ2Vuw7RtaWNvcyBlIG9uY29sb2dpYSBuYSAqKkRhc2EqKgotIPCfjI4gRm9jbyBlbSBzYcO6ZGUgcMO6YmxpY2EgYnJhc2lsZWlyYSDigJQgY8OibmNlciwgZGVuZ3VlLCBzw61maWxpcywgY2xpbWEgZSBzYcO6ZGUKLSDwn5OKIEFwYWl4b25hZG8gcG9yIHZpc3VhbGl6YcOnw6NvIGRlIGRhZG9zIGUgZXBpZGVtaW9sb2dpYSBlc3BhY2lhbAotIPCfjpMgw4FyZWEgZGUgaW50ZXJlc3NlOiBvbmNvLWVwaWRlbWlvbG9naWEsIGRvZW7Dp2FzIGluZmVjY2lvc2FzIGUgY2xpbWEgJiBzYcO6ZGUKCi0tLQoKIyMg8J+boO+4jyBUZWNub2xvZ2lhcyAmIEZlcnJhbWVudGFzCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVtQeXRob25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM3NzZBQj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSkKIVtSXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1ItMjc2REMzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1yJmxvZ29Db2xvcj13aGl0ZSkKIVtTUUxdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU1FMLTQ0NzlBMT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cG9zdGdyZXNxbCZsb2dvQ29sb3I9d2hpdGUpCiFbUGFuZGFzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1BhbmRhcy0xNTA0NTg/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBhbmRhcyZsb2dvQ29sb3I9d2hpdGUpCiFbSnVweXRlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KdXB5dGVyLUYzNzYyNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289anVweXRlciZsb2dvQ29sb3I9d2hpdGUpCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdC1GMDUwMzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCgo8L2Rpdj4KCi0tLQoKIyMg8J+TjCBQcm9qZXRvcyBlbSBEZXN0YXF1ZQoKfCBQcm9qZXRvIHwgRGVzY3Jpw6fDo28gfAp8LS0tfC0tLXwKfCBb8J+moCBjYW5jZXJfZGFzaGJvYXJkXShodHRwczovL2dpdGh1Yi5jb20vam9hby1tZWQvY2FuY2VyX2Rhc2hib2FyZCkgfCBEYXNoYm9hcmQgZGUgY8OibmNlciBwYXJhIGEgTWFjcm9ycmVnacOjbyBkZSBTYcO6ZGUgZG8gU3VkZXN0ZSBkZSBNRyB8CnwgW/CfjKHvuI8gaGVhdF9vZl90aGVfbmlnaHRdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2FvLW1lZC9oZWF0X29mX3RoZV9uaWdodCkgfCBBbsOhbGlzZSBkbyBpbXBhY3RvIGRlIG5vaXRlcyBxdWVudGVzIG5hIHNhw7pkZSB8CnwgW/Cfpp8gZGVuZ3VlX01HXShodHRwczovL2dpdGh1Yi5jb20vam9hby1tZWQvZGVuZ3VlX01HKSB8IEFuw6FsaXNlIGRlIGRhZG9zIGRlIGRlbmd1ZSBlbSBNaW5hcyBHZXJhaXMgfAp8IFvwn5SsIHN5cGhpbGlzX2p1aXpkZWZvcmFdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2FvLW1lZC9zeXBoaWxpc19qdWl6ZGVmb3JhKSB8IEVzdHVkbyBkZSBzw6lyaWUgdGVtcG9yYWwgZWNvbMOzZ2ljYSBzb2JyZSBzw61maWxpcyBlbSBKdWl6IGRlIEZvcmEgfAp8IFvwn6uBIENPUEQtVGVtcGVyYXR1cmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2FvLW1lZC9DT1BELVRlbXBlcmF0dXJlKSB8IFJlbGHDp8OjbyBlbnRyZSB0ZW1wZXJhdHVyYSBlIGludGVybmHDp8O1ZXMgcG9yIERQT0MgfAp8IFvwn5e677iPIE1pbmFzX0dlcmFpc19ncmlkXShodHRwczovL2dpdGh1Yi5jb20vam9hby1tZWQvTWluYXNfR2VyYWlzX2dyaWQpIHwgR3JpZCBwYXJhIHZpc3VhbGl6YcOnw6NvIGdlb2dyw6FmaWNhIGRhcyBtaWNyb3JyZWdpw7VlcyBkZSBNRyBlbSBSIHwKfCBb8J+Mpu+4jyBjbGltYXRlX2RhdGFdKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2FvLW1lZC9jbGltYXRlX2RhdGEpIHwgRXh0cmHDp8OjbyBlIHByb2Nlc3NhbWVudG8gZGUgZGFkb3MgY2xpbcOhdGljb3MgY2llbnTDrWZpY29zIHwKfCBb8J+Ol++4jyBjYW5jZXJfTVNTTUddKGh0dHBzOi8vZ2l0aHViLmNvbS9qb2FvLW1lZC9jYW5jZXJfTVNTTUcpIHwgRGFkb3MgZGUgY8OibmNlciBuYSBNYWNyb3JyZWdpw6NvIGRlIFNhw7pkZSBkbyBTdWRlc3RlIGRlIE1HIHwKCi0tLQoKIyMg8J+TiiBHaXRIdWIgU3RhdHMKCjxkaXYgYWxpZ249ImNlbnRlciI+CgohW0pvw6NvJ3MgR2l0SHViIFN0YXRzXShodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9am9hby1tZWQmc2hvd19pY29ucz10cnVlJnRoZW1lPWRlZmF1bHQmaGlkZV9ib3JkZXI9dHJ1ZSZjb3VudF9wcml2YXRlPXRydWUpCgohW1RvcCBMYW5nc10oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9am9hby1tZWQmbGF5b3V0PWNvbXBhY3QmaGlkZV9ib3JkZXI9dHJ1ZSZ0aGVtZT1kZWZhdWx0KQoKPC9kaXY+CgotLS0KCiMjIPCfk6sgQ29udGF0bwoKPGRpdiBhbGlnbj0iY2VudGVyIj4KClshW0VtYWlsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLUQxNDgzNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z21haWwmbG9nb0NvbG9yPXdoaXRlKV0obWFpbHRvOmpwbWVkZWlyb3NnQGdtYWlsLmNvbSkKWyFbR2l0SHViXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1Yi0xODE3MTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2dpdGh1Yi5jb20vam9hby1tZWQpCgo8L2Rpdj4KCi0tLQoKPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8aT5UcmFuc2Zvcm1hbmRvIGRhZG9zIGVtIHNhw7pkZSDwn4en8J+HtzwvaT4KPC9kaXY+Cg==
+# Olá, eu sou o João 👋
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Health+Data+Scientist;Epidemiologist;Medical+Researcher;Public+Health+%7C+Brazil)
+
+</div>
+
+---
+
+## 🩺 Sobre mim
+
+Sou médico e pesquisador com foco em **epidemiologia**, **saúde pública** e **ciência de dados aplicada à saúde**. Trabalho com análise de dados clínicos e populacionais, com ênfase em **Minas Gerais** e no Brasil.
+
+Meu trabalho envolve desde estudos de séries temporais ecológicas até dashboards interativos e linkage de bases de dados de saúde.
+
+- 🔭 Atualmente trabalhando com dados genômicos e oncologia na **Dasa**
+- 🌎 Foco em saúde pública brasileira — câncer, dengue, sífilis, clima e saúde
+- 📊 Apaixonado por visualização de dados e epidemiologia espacial
+- 🎓 Área de interesse: onco-epidemiologia, doenças infecciosas e clima & saúde
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| [🦠 cancer_dashboard](https://github.com/joao-med/cancer_dashboard) | Dashboard de câncer para a Macrorregião de Saúde do Sudeste de MG |
+| [🌡️ heat_of_the_night](https://github.com/joao-med/heat_of_the_night) | Análise do impacto de noites quentes na saúde |
+| [🦟 dengue_MG](https://github.com/joao-med/dengue_MG) | Análise de dados de dengue em Minas Gerais |
+| [🔬 syphilis_juizdefora](https://github.com/joao-med/syphilis_juizdefora) | Estudo de série temporal ecológica sobre sífilis em Juiz de Fora |
+| [🫁 COPD-Temperature](https://github.com/joao-med/COPD-Temperature) | Relação entre temperatura e internações por DPOC |
+| [🗺️ Minas_Gerais_grid](https://github.com/joao-med/Minas_Gerais_grid) | Grid para visualização geográfica das microrregiões de MG em R |
+| [🌦️ climate_data](https://github.com/joao-med/climate_data) | Extração e processamento de dados climáticos científicos |
+| [🎗️ cancer_MSSMG](https://github.com/joao-med/cancer_MSSMG) | Dados de câncer na Macrorregião de Saúde do Sudeste de MG |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-med&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-med&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpmedeirosg@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-med)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Transformando dados em saúde 🇧🇷</i>
+</div>
