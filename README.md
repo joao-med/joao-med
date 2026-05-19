@@ -1,4 +1,4 @@
-# Olá, eu sou o João 👋
+# Hi, I'm João 👋
 
 <div align="center">
 
@@ -8,20 +8,20 @@
 
 ---
 
-## 🩺 Sobre mim
+## 🩺 About Me
 
-Sou médico e pesquisador com foco em **epidemiologia**, **saúde pública** e **ciência de dados aplicada à saúde**. Trabalho com análise de dados clínicos e populacionais, com ênfase em **Minas Gerais** e no Brasil.
+I'm a physician and researcher focused on **epidemiology**, **public health**, and **health data science**. I work with clinical and population-level data analysis, with a strong emphasis on **Minas Gerais** and Brazil.
 
-Meu trabalho envolve desde estudos de séries temporais ecológicas até dashboards interativos e linkage de bases de dados de saúde.
+My work spans ecological time series studies, interactive dashboards, health database linkage, and AI-powered clinical tools.
 
-- 🔭 Atualmente trabalhando com dados genômicos e oncologia na **Dasa**
-- 🌎 Foco em saúde pública brasileira — câncer, dengue, sífilis, clima e saúde
-- 📊 Apaixonado por visualização de dados e epidemiologia espacial
-- 🎓 Área de interesse: onco-epidemiologia, doenças infecciosas e clima & saúde
+- 🔭 Currently working with genomic data and oncology at **Dasa**
+- 🌎 Focused on Brazilian public health — cancer, dengue, syphilis, climate & health
+- 🤖 Building AI tools for clinical support and research automation
+- 🎓 Research interests: onco-epidemiology, infectious diseases, and climate & health
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -36,18 +36,18 @@ Meu trabalho envolve desde estudos de séries temporais ecológicas até dashboa
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-| Projeto | Descrição |
+| Project | Description |
 |---|---|
-| [🦠 cancer_dashboard](https://github.com/joao-med/cancer_dashboard) | Dashboard de câncer para a Macrorregião de Saúde do Sudeste de MG |
-| [🌡️ heat_of_the_night](https://github.com/joao-med/heat_of_the_night) | Análise do impacto de noites quentes na saúde |
-| [🦟 dengue_MG](https://github.com/joao-med/dengue_MG) | Análise de dados de dengue em Minas Gerais |
-| [🔬 syphilis_juizdefora](https://github.com/joao-med/syphilis_juizdefora) | Estudo de série temporal ecológica sobre sífilis em Juiz de Fora |
-| [🫁 COPD-Temperature](https://github.com/joao-med/COPD-Temperature) | Relação entre temperatura e internações por DPOC |
-| [🗺️ Minas_Gerais_grid](https://github.com/joao-med/Minas_Gerais_grid) | Grid para visualização geográfica das microrregiões de MG em R |
-| [🌦️ climate_data](https://github.com/joao-med/climate_data) | Extração e processamento de dados climáticos científicos |
-| [🎗️ cancer_MSSMG](https://github.com/joao-med/cancer_MSSMG) | Dados de câncer na Macrorregião de Saúde do Sudeste de MG |
+| [🤖 escriba-medico](https://github.com/joao-med/escriba-medico) | Multi-agent AI clinical scribe for emergency departments |
+| [🗣️ app_linguas](https://github.com/joao-med/app_linguas) | French learning web app with listening, reading, speaking, writing modules and speech recognition |
+| [🔬 recoorpsearch](https://github.com/joao-med/recoorpsearch) | PubMed search with LLM-powered corporate affiliation detection in scientific authors |
+| [🎗️ cancer_dashboard](https://github.com/joao-med/cancer_dashboard) | Cancer dashboard for the Health Macroregion of Southeast Minas Gerais |
+| [🌡️ heat_of_the_night](https://github.com/joao-med/heat_of_the_night) | Impact of hot nights on health outcomes |
+| [🦟 dengue_MG](https://github.com/joao-med/dengue_MG) | Dengue data analysis in Minas Gerais |
+| [🔬 syphilis_juizdefora](https://github.com/joao-med/syphilis_juizdefora) | Ecological time series study on syphilis in Juiz de Fora, Brazil |
+| [🫁 COPD-Temperature](https://github.com/joao-med/COPD-Temperature) | Association between temperature and COPD hospitalizations |
 
 ---
 
@@ -63,7 +63,7 @@ Meu trabalho envolve desde estudos de séries temporais ecológicas até dashboa
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -75,5 +75,5 @@ Meu trabalho envolve desde estudos de séries temporais ecológicas até dashboa
 ---
 
 <div align="center">
-  <i>Transformando dados em saúde 🇧🇷</i>
+  <i>Turning data into health 🇧🇷</i>
 </div>
