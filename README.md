@@ -10,14 +10,7 @@
 
 ## 🩺 About Me
 
-I'm a physician and researcher focused on **epidemiology**, **public health**, and **health data science**. I work with clinical and population-level data analysis, with a strong emphasis on **Minas Gerais** and Brazil.
-
-My work spans ecological time series studies, interactive dashboards, health database linkage, and AI-powered clinical tools.
-
-- 🔭 Currently working with genomic data and oncology at **Dasa**
-- 🌎 Focused on Brazilian public health — cancer, dengue, syphilis, climate & health
-- 🤖 Building AI tools for clinical support and research automation
-- 🎓 Research interests: onco-epidemiology, infectious diseases, and climate & health
+Physician and data scientist working at the intersection of clinical research and data engineering. Currently at **Dasa** (R&D & Real World Evidence) and visiting researcher at **LABDAPS/USP**. Co-author of 4 peer-reviewed publications on climate & health. Focused on environmental epidemiology, real-world evidence, and health data linkage across Brazilian public health datasets.
 
 ---
 
@@ -25,12 +18,14 @@ My work spans ecological time series studies, interactive dashboards, health dat
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
@@ -66,8 +61,10 @@ My work spans ecological time series studies, interactive dashboards, health dat
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpmedeirosg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-med)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jpmedeirosg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpmedeirosg)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5576-2481)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joao-med)
 
 </div>
 
