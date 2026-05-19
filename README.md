@@ -42,7 +42,6 @@ My work spans ecological time series studies, interactive dashboards, health dat
 |---|---|
 | [🤖 escriba-medico](https://github.com/joao-med/escriba-medico) | Multi-agent AI clinical scribe for emergency departments |
 | [🗣️ app_linguas](https://github.com/joao-med/app_linguas) | French learning web app with listening, reading, speaking, writing modules and speech recognition |
-| [🔬 recoorpsearch](https://github.com/joao-med/recoorpsearch) | PubMed search with LLM-powered corporate affiliation detection in scientific authors |
 | [🎗️ cancer_dashboard](https://github.com/joao-med/cancer_dashboard) | Cancer dashboard for the Health Macroregion of Southeast Minas Gerais |
 | [🌡️ heat_of_the_night](https://github.com/joao-med/heat_of_the_night) | Impact of hot nights on health outcomes |
 | [🦟 dengue_MG](https://github.com/joao-med/dengue_MG) | Dengue data analysis in Minas Gerais |
